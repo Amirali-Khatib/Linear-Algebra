@@ -8,14 +8,9 @@ I've done 3 main projects which are listed below:
 
 # **Manual Solution slides**
 I've provided manual solution slides for each chapter of the course including:
-**1. Chapter 1: Matrices and Gaussian Elimination**
-
-**2. Chapter 2: Vector Spaces**
-
-**3. Chapter 3: Orthogonality**
-
-**4. Chapter 4: Determinants**
-
-**5. Chapter 5: Eigenvalues and Eigenvectors**
-
-**6. Chapter 6: Positive Definite Matrices**
+* **1. Chapter 1: Matrices and Gaussian Elimination**
+* **2. Chapter 2: Vector Spaces**
+* **3. Chapter 3: Orthogonality**
+* **4. Chapter 4: Determinants**
+* **5. Chapter 5: Eigenvalues and Eigenvectors**
+* **6. Chapter 6: Positive Definite Matrices**
